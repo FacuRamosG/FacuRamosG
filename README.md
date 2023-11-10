@@ -68,5 +68,4 @@
 
 
 [website]: https://porfolio-murex-two.vercel.app
-[instagram]: https://www.instagram.com/facu.ramosg/
 [linkedin]: www.linkedin.com/in/facundo-ramos-garde-791a55280
