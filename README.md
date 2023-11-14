@@ -62,9 +62,8 @@
 
 ---
 
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
  
----
+ 
 
 
 [website]: https://porfolio-murex-two.vercel.app
